@@ -1,0 +1,14 @@
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\bin\Debug\net10.0\BlackJackGame.exe
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\bin\Debug\net10.0\BlackJackGame.deps.json
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\bin\Debug\net10.0\BlackJackGame.runtimeconfig.json
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\bin\Debug\net10.0\BlackJackGame.dll
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\bin\Debug\net10.0\BlackJackGame.pdb
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.AssemblyInfoInputs.cache
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.AssemblyInfo.cs
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.dll
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\refint\BlackJackGame.dll
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.pdb
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.genruntimeconfig.cache
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\ref\BlackJackGame.dll
