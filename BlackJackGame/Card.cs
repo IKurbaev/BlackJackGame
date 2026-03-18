@@ -4,10 +4,7 @@ namespace BlackJackGame
     {
         bool _fliped = true;
         string _cardValue;
-        public Card(string v)
-        {
-            _cardValue = v;
-        }
+        public Card(string v) => _cardValue = v;
 
         public void ShowCard()
         {
@@ -16,9 +13,13 @@ namespace BlackJackGame
             else
                 Console.Write(_cardValue);
         }
-        public void Flip()
+        public string ShowCardStr()
         {
-            _fliped = !_fliped;
+            if (_fliped)
+                return "XX";
+            else
+                return _cardValue;
         }
+        public void Flip() => _fliped = !_fliped;
     }
 }

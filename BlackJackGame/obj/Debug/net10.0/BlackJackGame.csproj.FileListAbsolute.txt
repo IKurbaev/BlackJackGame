@@ -12,3 +12,4 @@ C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0
 C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.pdb
 C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.genruntimeconfig.cache
 C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\ref\BlackJackGame.dll
+C:\Users\ikurus\Documents\repos\csharp\BlackJack\BlackJackGame\obj\Debug\net10.0\BlackJackGame.sourcelink.json

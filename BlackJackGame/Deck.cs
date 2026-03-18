@@ -58,9 +58,6 @@ namespace BlackJackGame
             return _temp;
         }
 
-        public void PutInDeck(Card c)
-        {
-            _cardsInDeck.Add(c);
-        }
+        public void PutInDeck(Card c) => _cardsInDeck.Add(c);
     }
 }
