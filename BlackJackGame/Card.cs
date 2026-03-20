@@ -13,7 +13,7 @@ namespace BlackJackGame
             else
                 Console.Write(_cardValue);
         }
-        public string ShowCardStr()
+        public override string ToString()
         {
             if (_fliped)
                 return "XX";
